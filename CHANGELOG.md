@@ -1,3 +1,10 @@
+# 1.0.0 (2024-05-02)
+
+
+### Features
+
+* feats ([441df18](https://github.com/SaintCamber/WeddingWebsite/commit/441df1876a4a80ea830ac44e38ba3e584f1d19ed))
+
 # [3.46.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.45.0...v3.46.0) (2024-04-13)
 
 
